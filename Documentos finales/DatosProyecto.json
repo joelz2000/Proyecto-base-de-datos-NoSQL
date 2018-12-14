@@ -34,5 +34,23 @@
     "laptops": 0,
     "desktops": 0,
     "target": 0
+  },
+  {
+    "id": 3,
+    "Descripcion": "Telefono",
+    "Marca": "Iphone",
+    "Precio": 650,
+    "Color": "Negro",
+    "Pantalla": 3,
+    "Consolas": 4,
+    "VideoJuegos": 6,
+    "Muebles": 1,
+    "Pantalones": 4,
+    "Camisas": 64,
+    "Celulares": 1,
+    "Telefonia": 44,
+    "laptops": 1,
+    "desktops": 3,
+    "target": 0
   }
 ]
