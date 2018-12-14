@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "Descripcion": "Telefono",
+    "Marca": "Iphone",
+    "Precio": 650,
+    "Color": "Negro",
+    "Pantalla": 0,
+    "Consolas": 0,
+    "VideoJuegos": 0,
+    "Muebles": 0,
+    "Pantalones": 0,
+    "Camisas": 0,
+    "Celulares": 1,
+    "Telefonia": 0,
+    "laptops": 0,
+    "desktops": 0,
+    "target": 0
+  },
+  {
+    "id": 2,
+    "Descripcion": "Telefono",
+    "Marca": "Iphone",
+    "Precio": 650,
+    "Color": "Negro",
+    "Pantalla": 0,
+    "Consolas": 0,
+    "VideoJuegos": 0,
+    "Muebles": 0,
+    "Pantalones": 0,
+    "Camisas": 0,
+    "Celulares": 1,
+    "Telefonia": 0,
+    "laptops": 0,
+    "desktops": 0,
+    "target": 0
+  }
+]
