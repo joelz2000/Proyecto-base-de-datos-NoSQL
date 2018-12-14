@@ -82,13 +82,13 @@ class ControllerPrediccionEjemplo{
     static public function ctrMostrarPrediccionEjemplo(){
         $marshaler = new Marshaler();  
         $regression = new LeastSquares(); 
-        $tableName = 'Ejemplo';
+        $tableName = 'TiendaProyectoNoSQL';
         $datos = PrediccionEjemploModel::mdlMostrarDatosPrediccionEjemplo($tableName);
         
         foreach ($datos['Items'] as $i) {
             $prediccion = $marshaler->unmarshalItem($i);
-            $samples = $prediccion['samples'];
-            $targets = $prediccion['targets'];
+            $samples = $prediccion['id'];
+            $targets = $prediccion['Camisas'];
 
             $s[] = array($samples);
             $t[] = array($targets);
@@ -97,7 +97,7 @@ class ControllerPrediccionEjemplo{
 
      
         $regression->train($s, $t);
-        $result = $regression->predict([64]);
+        $result = $regression->predict([3]);
         echo "Prediccion = " .round($result,2);
     }
 
