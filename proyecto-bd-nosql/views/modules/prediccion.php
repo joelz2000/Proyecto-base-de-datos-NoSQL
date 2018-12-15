@@ -16,9 +16,9 @@
         <div class="box">
             <h3>
             <?php
-                 $prediccion = new ControllerPrediccionEjemplo();
+                 $prediccion = new ControllerPrediccion();
                  //$prediccion->mostrarPrediccion();
-                 $prediccion->ctrMostrarPrediccionEjemplo();
+                 $prediccion->ctrMostrarPrediccion();
                 
             ?>
             </h3>

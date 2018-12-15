@@ -5,9 +5,8 @@
 
     
     require_once ('controllers/plantilla.controller.php');
-    require_once ('controllers/prediccion.controller.php');
-    require_once ('controllers/prediccionEjemploBD.controller.php');
-    require_once ('model/prediccionEjemplo.model.php');
+    require_once ('controllers/prediccionBD.controller.php');
+    require_once ('model/prediccion.model.php');
     require 'libs/SDK-PHP-AWS/aws/aws-autoloader.php';
     include 'libs/ML/vendor/autoload.php';
     

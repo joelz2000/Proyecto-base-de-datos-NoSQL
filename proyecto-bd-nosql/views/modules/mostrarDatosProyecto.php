@@ -21,6 +21,20 @@
             <table class="table table-bordered table-hover">
                 <thead>
                   <tr>
+                      <th>ID</th>
+                      <th>Nombre</th>
+                      <th>Precio</th>
+                      <th>Cantidad Ventas</th>
+                      <th>Categoria</th>
+                      <th>Marca</th>
+                      <th>Descripcion</th>
+                      <th>Distribuidor</th>
+                      <th>Medida</th>
+                      <th>Colores</th>
+                      <th>Target</th>
+
+                  </tr>
+                  <!--<tr>
                     <th>ID</th>
                     <th>Descripcion</th>
                     <th>Marca</th>
@@ -38,13 +52,13 @@
                     <th>Desktops</th>
                     <th>target</th>
 
-                  </tr>
+                  </tr>-->
                 </thead>
                 
                 <tbody>
                   <?php
-                    $prediccion = new ControllerPrediccionEjemplo();
-                    $prediccion -> ctrMostrarDatosPrediccionEjemplo();
+                    $prediccion = new ControllerPrediccion();
+                    $prediccion -> ctrMostrarDatosPrediccion();
                   ?>
                 </tbody>
             </table>

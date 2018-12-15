@@ -16,8 +16,8 @@
         <div class="box">
             <h3>
             <?php
-                $p = new ControllerPrediccionEjemplo();
-                $p->ctrCargarDatosPrediccionEjemplo();
+                $p = new ControllerPrediccion();
+                $p->ctrCargarDatosPrediccion();
             ?>
             </h3>
       </div>
