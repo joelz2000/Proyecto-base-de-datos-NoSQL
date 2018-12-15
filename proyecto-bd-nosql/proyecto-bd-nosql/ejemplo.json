@@ -1,0 +1,26 @@
+[
+
+    {
+        "samples": 60,
+        "targets": 3.1
+    },
+
+    {
+        "samples": 61,
+        "targets": 3.6
+    },
+
+    {
+        "samples": 62,
+        "targets": 3.8
+    },
+
+    {
+        "samples": 63,
+        "targets": 4
+    },
+    {
+        "samples": 65,
+        "targets": 4.1
+    }
+]

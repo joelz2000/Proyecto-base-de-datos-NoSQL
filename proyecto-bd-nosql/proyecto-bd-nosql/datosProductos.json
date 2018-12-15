@@ -1,0 +1,54 @@
+[
+    {
+        "id" : 1,
+        "Nombre": "Camisa1",
+        "Precio": 1500,
+        "CantidadVentas": 20,
+        "Categoria" : "Camiseta",
+        "Marca" : "MarcaCamisa",
+        "Descripcion" : "Camisa con mangas cortas",
+        "Distribuidor" :  "John",
+        "Medida" : ["L", "XL"],
+        "Colores" : ["Rojo", "Negro"],
+        "Target": 0
+    },
+    {
+        "id" : 2,
+        "Nombre": "Camisa2",
+        "Precio": 11500,
+        "CantidadVentas":14,
+        "Categoria" : "Camisa",
+        "Marca" : "MarcaCamisa",
+        "Descripcion" : "Camisa con mangas largas",
+        "Distribuidor" :  "Joel",
+        "Medida" : ["L", "XL"],
+        "Colores" : ["Rojo", "Negro"],
+        "Target": 0
+    },
+    {
+        "id" : 3,
+        "Nombre": "Pantalones",
+        "Precio": 11500,
+        "CantidadVentas":1,
+        "Categoria" : "Pantalones",
+        "Marca" : "marca",
+        "Descripcion" : "Pantalon con mangas largas",
+        "Distribuidor" :  "Joel",
+        "Medida" : ["L", "XL"],
+        "Colores" : ["Rojo", "Negro"],
+        "Target": 0
+    },
+    {
+        "id" : 4,
+        "Nombre": "Media",
+        "Precio": 11500,
+        "CantidadVentas":5,
+        "Categoria" : "Media",
+        "Marca" : "marca media",
+        "Descripcion" : "media",
+        "Distribuidor" :  "Joel",
+        "Medida" : ["L", "XL"],
+        "Colores" : ["Rojo", "Negro"],
+        "Target": 0
+    }
+]
