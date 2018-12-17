@@ -54,5 +54,47 @@
         "Modelo" : "MQD32LL/A",
         "Colores" : ["Plateado"],
         "Target": 0
+    },
+    {
+        "id" : 5,
+        "Nombre": "All-New Fire HD 8 Tablet",
+        "Precio": 49.99,
+        "CantidadVentas":23,
+        "Categoria" : "Tablets",
+        "Marca" : "Amazon",
+        "Descripcion" : "HD Display, Almacenamiento: 16 GB, Black, Ram: 1.5 GB",
+        "Distribuidor" :  "Joel",
+        "Medida" : ["8”"],
+        "Modelo" : "L5S83A",
+        "Colores" : ["Negro"],
+        "Target": 0
+    },
+    {
+        "id" : 6,
+        "Nombre": "iPad Mini 4",
+        "Precio": 334.95,
+        "CantidadVentas":10,
+        "Categoria" : "Tablets",
+        "Marca" : "Apple",
+        "Descripcion" : "128GB, Wi-Fi, 8MP camera",
+        "Distribuidor" :  "Joel",
+        "Medida" : ["13”"],
+        "Modelo" : "iPad Mini 4",
+        "Colores" : ["Space grey"],
+        "Target": 0
+    },
+    {
+        "id" : 7,
+        "Nombre": "Samsung Galaxy Tab A 10.1”",
+        "Precio": 229.00,
+        "CantidadVentas":85,
+        "Categoria" : "Tablets",
+        "Marca" : "Apple",
+        "Descripcion" : "Touchscreen (1920x1200) Wi-Fi Tablet, Octa-Core 1.6GHz Processor, 2GB RAM, 16GB Memory, Dual Cameras, Bluetooth, 32GB MicroSD Card, Android OS, Choose Your MicroSD",
+        "Distribuidor" :  "Joel",
+        "Medida" : ["10.1”"],
+        "Modelo" :"Samsung Galaxy Tab A T580",
+        "Colores" : ["Negro"],
+        "Target": 0
     }
 ]
