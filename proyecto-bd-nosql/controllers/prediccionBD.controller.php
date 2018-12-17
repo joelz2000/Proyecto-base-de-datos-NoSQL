@@ -66,6 +66,7 @@ class ControllerPrediccion{
                     }
                 echo '
                 </td>
+                <td>'.$prediccion['Modelo'].'</td>
                 <td>';
                     for ($c=0; $c < count($prediccion['Colores']) ; $c++) { 
                         echo $prediccion['Colores'][$c];

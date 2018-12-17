@@ -91,6 +91,7 @@ class PrediccionModel{
             $Descripcion = $dato['Descripcion'];
             $Distribuidor = $dato['Distribuidor'];
             $Medida = $dato['Medida'];
+            $Modelo = $dato['Modelo'];
             $Colores = $dato['Colores'];
             $Target = $dato['Target'];
             
@@ -121,6 +122,7 @@ class PrediccionModel{
                 "Descripcion" => $Descripcion,
                 "Distribuidor" => $Distribuidor,
                 "Medida" => $Medida,
+                "Modelo" => $Modelo,
                 "Colores" => $Colores,
                 "Target" => $Target
             ]);
@@ -182,6 +184,7 @@ class PrediccionModel{
                 Descripcion,
                 Distribuidor,
                 Medida,
+                Modelo,
                 Colores,
                 Target
                 

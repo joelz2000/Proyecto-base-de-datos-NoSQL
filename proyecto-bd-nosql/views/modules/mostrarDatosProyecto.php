@@ -30,6 +30,7 @@
                       <th>Descripcion</th>
                       <th>Distribuidor</th>
                       <th>Medida</th>
+                      <th>Modelo</th>
                       <th>Colores</th>
                       <th>Target</th>
 
