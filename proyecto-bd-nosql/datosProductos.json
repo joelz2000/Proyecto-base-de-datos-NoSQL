@@ -97,4 +97,60 @@
         "Colores" : ["Negro"],
         "Target": 0
     }
+ {
+        "id" : 8,
+        "Nombre": "smart tv samsung",
+        "Precio": 2000,
+        "CantidadVentas":90,
+        "Categoria" : "Televisores",
+        "Marca" : "samsung",
+        "Descripcion" : "75” Class Q9FN QLED Smart 4K UHD TV",
+        "Distribuidor" :  "Joel",
+        "Medida" : ["75”"],
+        "Modelo" :"QLED SMART TV",
+        "Colores" : ["Gris"],
+        "Target": 3
+    }
+    {
+        "id" : 9,
+        "Nombre": "smart tv LG",
+        "Precio": 2500,
+        "CantidadVentas":50,
+        "Categoria" : "Televisores",
+        "Marca" : "LG",
+        "Descripcion" : "LG Smart TV",
+        "Distribuidor" :  "Tienda 1",
+        "Medida" : ["80"],
+        "Modelo" :"LG Smart TV",
+        "Colores" : ["Negro"],
+        "Target": 1
+    }
+   {
+        "id" : 10,
+        "Nombre": "Disco Duro Externo",
+        "Precio": 80,
+        "CantidadVentas":1000,
+        "Categoria" : "Electronicos",
+        "Marca" : "KANJI",
+        "Descripcion" : "SSD EXTERNO KANJI 128 GB PORTABLE USB EXTERNAL RETAIL",
+        "Distribuidor" :  "Tienda 1",
+        "Medida" : ["10"],
+        "Modelo" :"SSD EXTERNO",
+        "Colores" : ["Negro"],
+        "Target": 4
+    }
+    {
+        "id" : 11,
+        "Nombre": "Parlante",
+        "Precio": 50,
+        "CantidadVentas":2000,
+        "Categoria" : "Electronicos",
+        "Marca" : "Sony",
+        "Descripcion" : "Parlante portátil EXTRA BASS™ XB41 con BLUETOOTH",
+        "Distribuidor" :  "Tienda 1",
+        "Medida" : ["10"],
+        "Modelo" :"EXTRA BASS™ XB41",
+        "Colores" : ["Negro"],
+        "Target": 5
+    }
 ]
